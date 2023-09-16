@@ -6,7 +6,7 @@ Contracts for Zeit Protocol
 
 `npm i`
 
-## Compile Cpntracts
+## Compile Contracts
 
 `npx hardhat compile`
 
